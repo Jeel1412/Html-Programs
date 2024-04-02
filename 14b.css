@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+.background{
+    width: 100%;
+    height: 90vh;
+    filter: blur(20px);
+}
+.main{
+    background-color: white;
+    height: 600px;
+    width: 80%;
+    position: relative;
+    top: -500px;
+    right: -10%;
+}
+.img1{
+    width:40%; 
+    height:300px;
+    margin-left: 70px; 
+    margin-top: 140px;
+}
+.main2{
+    background-color: beige;
+    width: 50%;
+    height: 600px;
+    float: right;
+}
+.a{
+    color: blue;
+    margin-top: 30px; 
+    margin-left: 50px;
+}
+.b{
+    color: rgb(152, 152, 152);
+    margin-top: 30px; 
+    margin-left: 50px;
+}
+.c{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.d{
+    margin-top: -17px;
+    margin-left: 50px;
+    font-size: larger;
+    color: yellow;
+    float: left;    
+}
+.e{
+    margin-top: -12px;
+    margin-left: 10px;
+    float: left;
+}
+.f{
+    margin-left: 50px;
+    margin-top: 45px;
+}
+.g{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.h{
+    text-align: center;
+    margin-left: -5px;
+    margin-top: 10px;
+}
+.i{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.j{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;   
+}
+.k{
+    margin-left: 5px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.l{
+    margin-left: 5px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.m{
+    margin-left: 5px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.n{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.cyan{
+    background-color: cyan;
+    margin-left: 50px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
+    border-radius: 70%;  
+    border: 0px transparent;
+    float: left;
+}
+.black{
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
+    border-radius: 70%;  
+    border: 0px transparent;
+    float: left; 
+}
+.grey{
+    background-color: grey;
+    margin-left: 10px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
+    border-radius: 70%;  
+    border: 0px transparent;
+    float: left; 
+}
+.white{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
+    border-radius: 70%;  
+    border: 0px transparent;
+    float: left;
+}
+.o{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.p{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.q{
+    margin-left: 5px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.r{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.s{
+    margin-top: 20px;
+    float: right;
+}
+.t{
+    margin-top: 20px;
+    
+}

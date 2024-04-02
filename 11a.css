@@ -1,0 +1,12 @@
+.a{
+    background-image: linear-gradient(red,yellow);
+    height: 100vh;
+    width: 50%;
+    float: left;
+}
+.b{
+    background-image: radial-gradient(red,yellow,green);
+    height: 100vh;
+    width: 50%;
+    float: left;
+}

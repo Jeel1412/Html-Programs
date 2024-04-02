@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        a:link{
+            color: orange;
+        }
+
+        a:visited{
+            color: red;
+        }
+
+        p::first-letter{
+            font-size:100px;
+            font-family:'Times New Roman', Times, serif;
+            color:navy;
+        }
+
+        p::first-line{
+            color:lime;
+            font-family: monospace;
+            font-size: xx-large;
+        }
+
+        body:active{
+            background-color: yellow;
+        }
+
+        p:hover{
+            color:blue;
+        }
+
+        p::selection{
+            background-color:green;
+        }
+
+        img{
+            filter: grayscale(100%);
+            
+            transition-duration:1.5s;
+        }
+
+        img:hover{
+            filter: grayscale(0%);
+            
+        }
+
+    </style>
+</head>
+<body>
+    <div class="a">
+        <a href="./1.html">Click here to go to another website</a>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eos, iure distinctio ex cum voluptatibus, aliquid vitae fuga ea ab mollitia voluptas ad repellat natus eaque eius tempore fugiat at?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore delectus, nobis distinctio quaerat fugit esse accusantium reiciendis unde consequuntur amet ipsam saepe molestiae alias? Illo vitae est reiciendis doloremque incidunt!Lorem
+        </p>
+
+        
+        <img src="./gt3rs.jpg" width="40%" height="400vh">
+        
+
+    </div>
+</body>
+</html>
